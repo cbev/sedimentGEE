@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ace-agility-252217",
+  "private_key_id": "730036b01fc80bd40325087e7d68ce8cf4af9f56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYTR0Gt8aRhVO4\nOxXK2xRtsZPnWFH1oMC8t+9rmS4m25g++aip1hO1+vIi2+LlV2ULY0wbsRL2kWjY\nebAZxLC5NYqgLBS9LngJreKdtzgp8LxmQ9J/Zd2JG/G6nlYilSe3IkCXzzPhV8C7\njY1KxZAsK/aAb6pA+cay9Axxi+ttlEAReNLxuu7BxJTjJeU4EARo7RuqJGGhaGyE\nmhswl8RBRyqXnHfKLLmSawe2LPsoelsnqsR+DUxhhx19YCHBCet/ohOWd/oeccJ3\nnrmdq5/d6sw10SExapDOa5YQRZMvH822W/2xhTDqzfAdHKpDBUCKOO6nP3tHhiUd\nFkW3KPepAgMBAAECggEAF5kHHgbh7hmZff+NM7fFwWdmk05Uh7uJV3VqNIcOTM03\njYRLgTbiqN+HN+QdG4f2tUC4qos9nkKUKYzSGGeX36bemDWi8BZAII80yl/VK+cw\niKgk0IMOoaEXtNRGIaj735wIJ7/CYVbjZxrM87+8yELmFlJIZOUTJ04ehus8zLQU\nvKhwMiXxpm+K8lVuRrsssTHTtzz40ybEMtaRgz1qq4dbZzRjXcteXQQB5epX37mi\nRAv2Y2Eg4YVJHoCE8+unNIkcVoLb+AsJGWVa4KioY9f7QhBF2T92uPUd14JSrdpg\nClm6X7mkQua0kyaE5g8h/rsdld04VmNfJtHmRfKzYQKBgQD6iL05Jq0q7SRh91c/\nZFjofcdT7aauK/DrTWM2fznuN0iY/Km7gMLH74xVljfRPq4EqtbJY9+yeflELoJ9\ngXMygdHbfEEOEDyeaXbuvbmHsfCM0mZyDo9waO+335Ftyxd87ArJw6KcEVIa0B4w\nhYkjMGLGRa2iKue8tvDOiTzQCQKBgQDdBS38B5FfcCsfETpHEFI34d+Z+/47zJg2\nnfgcRfRhdL200AgmEe9PqxUxnp88N05wgJadHaRDMX1UMX8UBQ/eQxIpqOToSmCe\n5k1FNLil98B5DzGYsv/dBN/x8zP4szVbfgnxdreVtji9hKGhwz+OzIUZBGGW4wvM\nj4RZdl2SoQKBgDfpgGFa0la8Kdx7OMt696SbPXrrlMFWKSQ6VyP4bNNPHzKVYMPp\nzo6UVXtcVQSrumZsQhcb5PaN5iVjQ9gCpdTlyBH1vwcGdKDd5J8PVHKGMasb4aUe\nvsBVivo8ONaJ9qn4e8ffk1DFRM+bFsG5a4ug5spdDo0cii9BnKhbVGkRAoGBAKKQ\nyL3zow2bp1v2g/L5IkBQNvM/0kORvPOPRYsmORXllBOGYDgAQRFMOQ6CKYVU+LDv\nI9j0kHmL0S84KMxE3OMSWi2iOJxS+LZnlrYsjRQmIr/oWQaDwoaCq2V/CN8IkVp2\nXkHonCfWG+3pvCkLP5h8/fjkrBMbdPZFKYfT9AeBAoGASk9uvIrqWNv3SnshT26E\n/eWl78q+7aBe6VbY//RiuTUKVtrW63GtwK6kBIenf89zf6w3fdaZTXwLuNy0VEiB\nH+NbyxGnvOKx38KbNPICw/OACb9zrvQfoQrZhOnI3PTzm/NdiDEEurWMQ3AevKK8\nWPKPS2CpvIlkkb9ks6PiOOE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bwdb-ssc@ace-agility-252217.iam.gserviceaccount.com",
+  "client_id": "115516633961233389875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bwdb-ssc%40ace-agility-252217.iam.gserviceaccount.com"
+}
